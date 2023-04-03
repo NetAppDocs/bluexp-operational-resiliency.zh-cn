@@ -1,0 +1,14 @@
+---
+section: use
+title: 使用运营故障恢复能力服务
+entries:
+- title: 查看并修复安全问题
+  url: "/use/remediate-overview.html"
+- title: 查看安全问题
+  url: "/use/remediate-review.html"
+- title: 自动修复问题
+  url: "/use/remediate-auto.html"
+- title: 使用Ansible攻略手册修复问题
+  url: "/use/remediate-ansible.html"
+- title: 确定修复状态
+  url: "/use/remediate-status.html"

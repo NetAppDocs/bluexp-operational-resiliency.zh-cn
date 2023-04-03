@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-review.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 风险修复服务可识别内部ONTAP 集群上的安全风险。 
+---
+= 查看安全风险问题
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+风险修复服务可识别内部ONTAP 集群上的安全风险。
+
+审核风险并执行自动修复涉及以下过程：
+
+* 在BlueXP中创建连接器(如果风险修复服务尚不存在连接器)。
+* 发现集群(如果此服务尚不存在集群)。
+* 执行修复或下载Ansible攻略手册。
+* 查看修复状态。
+
+
+.步骤
+. 从BlueXP左侧导航栏中、选择*运行状况*>*运行故障恢复能力*>*风险修复*。
+. 在风险列表中、按影响级别列排序、首先查看最高风险。
+. 选择风险并查看其他详细信息。
+. 选择*修复风险*。
+. 执行以下操作之一：
++
+** 对于每个集群、选择*修复*。
++
+此操作会自动修复问题描述 (在您选择*执行*以启动修复之后)。继续 link:../use/remediate-auto.html["自动修复风险问题"]。
+
+** 要使用Ansible攻略手册自行修复问题描述 、请选择*下载*。继续 link:../use/remediate-ansible.html["使用Ansible攻略手册修复风险问题"]。
+
+
+

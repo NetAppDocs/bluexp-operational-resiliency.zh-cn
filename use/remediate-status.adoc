@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-status.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 您可以随时检查修复的状态。您可以查看它是在运行、已完成还是失败。 
+---
+= 查看修复状态
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+您可以随时检查修复的状态。您可以查看它是在运行、已完成还是失败。
+
+.步骤
+. 从BlueXP左侧导航栏中、选择*运行状况*>*运行故障恢复能力*>*修复状态*。
++
+此时将显示"Remediation Status"页面。
+
+. 要查看问题描述 的详细信息、请选择要将其展开的问题描述。
+

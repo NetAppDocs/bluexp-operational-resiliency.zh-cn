@@ -1,0 +1,46 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-auto.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 如果选择了修复选项、则服务可以为您实施修复。 
+---
+= 自动修复问题描述
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+如果选择了*修复*选项、则服务可以为您实施修复。
+
+.步骤
+. 从BlueXP左侧导航栏中、选择*运行状况*>*运行故障恢复能力*>*风险修复*。
+. 在风险修复页面中、按影响级别列进行排序、以首先查看最高风险。
+. 选择风险并选择*修复风险*。
+. 对于每个集群、选择*修复*。
++
+根据问题描述 、系统将显示相关说明。如果存在BlueXP Connector或已知集群、则此页面上的某些选项不会显示。
+
++
+** 如果Connector不存在或尚未启用、则此服务将显示创建连接器页面、您可以在其中创建连接器。如果Connector已存在、但未处于活动状态、则必须在云提供商服务中启用它。
++
+请参见所述的BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何创建连接器"]。
+
+** 如果集群不存在、服务将显示一个页面、您可以在其中标识集群。
++
+请参见BlueXP文档、了解相关信息 https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["如何识别集群"]。
+
+
+
+. 部署Connector并发现集群后、请查看修复情况。
++
+如果您选择了*修复*选项以使服务为您实施修复、则会显示"查看和执行所需修复"页面。
+
+. 查看风险和其他信息。
+. 选择 * 执行 * 。
++
+此操作将部署Connector (如果尚未完成)、发现集群、下载修复程序并自动在选定集群上实施修复程序。
+
+. 要查看修复程序的状态、请记下"Remediation Status"页面上的集群名称。
+

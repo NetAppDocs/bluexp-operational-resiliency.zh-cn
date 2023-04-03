@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: operational resiliency faq, operational resiliency frequently asked questions, firmware risks 
+summary: 了解运营弹性服务的新增功能。 
+---
+= 新增功能
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+了解运营弹性服务的新增功能。
+
+
+
+== 2023年4月2日
+
+使用新的运营故障恢复能力服务及其自动化IT运营风险修复建议、您可以在发生中断或故障之前实施建议的修复。
+
+运营故障恢复能力是一类服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间和性能。
+
+link:https://docs.netapp.com/us-en/bluexp-operational-resiliency/get-started/intro.html["了解有关此新服务的更多信息"]。

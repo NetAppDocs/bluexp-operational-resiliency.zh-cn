@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: get-started/quick-start.html 
+keywords: how to get started with bluexp operational resiliency, operational resiliency quick start, security risk remediation 
+summary: 通过几个步骤开始使用NetApp BlueXP操作故障恢复能力服务。 
+---
+= 快速启动运营故障恢复能力服务
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+下面简要介绍了开始使用NetApp BlueXP操作故障恢复能力服务所需的步骤。每个步骤中的链接将转到一个页面，其中提供了更多详细信息。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一个"] 查看前提条件
+[role="quick-margin-para"]
+link:../get-started/prerequisites.html["确保您的环境满足这些要求"^]。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["两个"] 设置操作故障恢复能力服务
+[role="quick-margin-para"]
+link:../get-started/setup.html["完成设置服务的步骤"^]。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["三个"] 下一步是什么？
+[role="quick-margin-para"]
+完成服务设置后、您接下来可以执行以下操作。
+
+[role="quick-margin-list"]
+* link:../use/remediate-overview.html["查看并修复安全风险问题"^]。
+* link:../use/remediate-auto.html["自动修复"^]。
+* link:../use/remediate-ansible.html["使用Ansible攻略手册进行修复"^]。
+* link:../use/remediate-status.html["确定风险修复状态"^]。
+

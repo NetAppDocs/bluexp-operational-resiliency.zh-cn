@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are bluexp operational resiliency requirements, economic efficiency prerequisites 
+summary: 通过验证对您的环境、网络访问、登录和Web浏览器的支持、开始体验BlueXP操作故障恢复能力。 
+---
+= 操作故障恢复能力前提条件
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+首先验证您的操作环境、登录、网络访问和Web浏览器是否就绪。
+
+要使用运营故障恢复能力服务、您应确保您的环境满足所有要求。
+
+* 您的环境必须满足所有BlueXP要求、包括通过Web浏览器进行登录和网络访问。
++
+请参见BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["入门检查清单"]。
+
+* 此服务要求所有集群均由Digital Advisor (以前称为Active IQ Digital Advisor)监控。请参见 https://docs.netapp.com/us-en/active-iq/index.html["Digital Advisor文档"]。
+* 您需要拥有集群的访问凭据。
+* 虽然这不是一项要求、但如果部署并启用了BlueXP连接器、并且发现了ONTAP 系统、则会很有帮助。如果不是、运营故障恢复能力服务将引导您完成这些过程。
+

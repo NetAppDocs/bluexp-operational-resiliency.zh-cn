@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-ansible.html 
+keywords: bluexp, operational resiliency, remediate, security risk remediation 
+summary: 您可以查看安全风险并下载Ansible攻略手册、以便修复问题描述。 
+---
+= 使用Ansible攻略手册进行修复
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+您可以查看安全风险并下载Ansible攻略手册、以便修复问题描述。
+
+您可以下载Ansible攻略手册、这是一种开源部署系统、可用于运行配置任务。要使用Ansible、只需运行攻略手册文件即可、该文件会使用存储在同一目录中的清单和帮助程序文件。
+
+.您需要的内容
+系统必须能够通过网络访问集群IP以执行Ansible攻略手册。
+
+.步骤
+. 从BlueXP左侧导航栏中、选择*运行状况*>*运行故障恢复能力*>*风险修复*。
+. 在风险列表中、按影响级别列排序、首先查看最高风险。
+. 选择风险并选择*修复风险*。
+. 要下载用于自行修复问题描述 的Ansible攻略手册、请选择*下载*。
++
+该服务会将Ansible攻略手册安装到您选择的本地计算机上。此攻略手册将以zip文件的形式下载、其中包含多个Yml文件。
+
+. 在下载文件夹中找到Ansible攻略手册。
+. 运行Ansible攻略手册：
++
+[listing]
+----
+$ ansible-playbook <playbook.yml>
+----
++
+有关如何使用Ansible攻略手册的说明、请参见 https://docs.ansible.com/ansible/latest/network/getting_started/first_playbook.html["Ansible文档"^]。
+
+. 按照攻略手册中的说明进行操作。
+

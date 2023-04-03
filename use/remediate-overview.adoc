@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: use/remediate-overview.html 
+keywords: operational resiliency, remediate, risk remediation, security risk 
+summary: NetApp BlueXP运营故障恢复能力服务使用AI来确定安全风险。 
+---
+= 查看并修复安全风险问题
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+通过运行故障恢复能力服务、您可以查看与固件问题相关的安全风险并实施修复。
+
+建议在系统或节点级别提供。
+
+审核风险后、您可以通过两种方式修复这些风险：
+
+* 让服务执行修复、以便为您修复问题描述。
+* 下载Ansible攻略手册、这是一种开源部署系统、可用于运行配置任务、并执行攻略手册中建议的操作。
+
+
+使用运营故障恢复能力服务、您可以实现以下目标：
+
+* link:../use/remediate-review.html["查看安全风险问题"]
+* link:../use/remediate-auto.html["自动修复"]
+* link:../use/remediate-ansible.html["使用Ansible攻略手册进行修复"]
+* link:../use/remediate-status.html["确定风险修复状态"]
+
