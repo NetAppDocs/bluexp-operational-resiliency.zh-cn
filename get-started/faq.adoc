@@ -20,7 +20,7 @@ summary: 如果您只是想快速了解问题解答，此常见问题解答会�
 
 *什么是BlueXP操作故障恢复能力URL？*
 
-对于URL、在浏览器中输入： https://console.bluexp.netapp.com/[]
+对于URL、在浏览器中输入： https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^]
 
 
 
