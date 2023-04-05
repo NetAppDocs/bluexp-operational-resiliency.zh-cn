@@ -53,14 +53,11 @@
   <block id="bfd3572da7deb352274b4218934dd2a5" category="paragraph">此操作会自动修复问题描述 (在您选择*执行*以启动修复之后)。继续 <block ref="155d1c925e456f5b01e8084a17198a9b" category="inline-link-macro-rx"></block>。</block>
   <block id="dba780c086871839e271397a91a1168f" category="inline-link-macro">使用Ansible攻略手册修复风险问题</block>
   <block id="1a72f3179a2856e66237e05940c8b2c4" category="list-text">要使用Ansible攻略手册自行修复问题描述 、请选择*下载*。继续 <block ref="2a3a4262efa2f3516dd5c7a1e58f2a52" category="inline-link-macro-rx"></block>。</block>
-  <block id="3d23dd2c04c9f13e9b274fad4db973ca" category="summary">NetApp BlueXP运营故障恢复能力服务使用AI来确定安全风险。</block>
   <block id="d829aa8182023eade7fc5b09a6e6db10" category="doc">查看并修复安全风险问题</block>
-  <block id="fcd5b3eaba8e2d3ad1a6bd2e634c0fa8" category="paragraph">通过运行故障恢复能力服务、您可以查看与固件问题相关的安全风险并实施修复。</block>
   <block id="1500b69b05c684f2bff6fef6c269da7e" category="paragraph">建议在系统或节点级别提供。</block>
   <block id="ef332fe59155dbbe05afbc8237b6c2f0" category="paragraph">审核风险后、您可以通过两种方式修复这些风险：</block>
   <block id="c59d31dbfc067528382d67deadc6809e" category="list-text">让服务执行修复、以便为您修复问题描述。</block>
   <block id="65b6ec319cba2b39d4b8f1261e5f65d2" category="list-text">下载Ansible攻略手册、这是一种开源部署系统、可用于运行配置任务、并执行攻略手册中建议的操作。</block>
-  <block id="4c9ea87870070d09e4bdab8c3f322d31" category="paragraph">使用运营故障恢复能力服务、您可以实现以下目标：</block>
   <block id="d3fac19c124804d1e84db71213df90a4" category="list-text"><block ref="d3fac19c124804d1e84db71213df90a4" category="inline-link-macro-rx"></block></block>
   <block id="509a2fbcd8e8c4f65019e011c9fc5135" category="inline-link-macro">自动修复</block>
   <block id="64910b3c333d96f1f4e6bd6ba9321283" category="list-text"><block ref="64910b3c333d96f1f4e6bd6ba9321283" category="inline-link-macro-rx"></block></block>
@@ -79,20 +76,14 @@
   <block id="c3ee5ddf91e65773d3e9d27f9e627350" category="inline-link">Ansible文档</block>
   <block id="7d6268b9dc6ee19857991d4f88f50bdf" category="paragraph">有关如何使用Ansible攻略手册的说明、请参见<block ref="2f1345580118e2956f2276fe8e08e989" category="inline-link-rx"></block>。</block>
   <block id="30a894e91a8af680e08e44c220c86292" category="list-text">按照攻略手册中的说明进行操作。</block>
-  <block id="ee4f79267b9b721be99108c15cc25314" category="summary">运营故障恢复能力是一类服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间和性能。使用运营弹性的风险修复服务及其自动化IT运营修复建议、您可以在发生中断或故障之前实施建议的修复。</block>
   <block id="fd6bebcfb34c38b868e5a7e0dd8fde4e" category="doc">运营故障恢复能力服务</block>
-  <block id="d31c2f400069ae7ed5d8d417be7e408f" category="summary">通过验证对您的环境、网络访问、登录和Web浏览器的支持、开始体验BlueXP操作故障恢复能力。</block>
   <block id="c08c16ebaae52a216a6bdc1f3d6a4f8c" category="doc">操作故障恢复能力前提条件</block>
   <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">首先验证您的操作环境、登录、网络访问和Web浏览器是否就绪。</block>
-  <block id="9bd9926830b47ac6a79518657cd0c311" category="paragraph">要使用运营故障恢复能力服务、您应确保您的环境满足所有要求。</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">您的环境必须满足所有BlueXP要求、包括通过Web浏览器进行登录和网络访问。</block>
   <block id="5b13c2584f8e7be6ddae81fa76b103bc" category="inline-link">入门检查清单</block>
   <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">Digital Advisor文档</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">您需要拥有集群的访问凭据。</block>
-  <block id="a957b5f46307a4beeefa3727aab84ac1" category="list-text">虽然这不是一项要求、但如果部署并启用了BlueXP连接器、并且发现了ONTAP 系统、则会很有帮助。如果不是、运营故障恢复能力服务将引导您完成这些过程。</block>
   <block id="8996677d91a175f8986c9fb086d0a019" category="summary">您无需添加容量或分层冷数据、而是可以选择此时不需要执行任何操作、并为自己设置提醒、以便在30、60或90天后再次检查。</block>
-  <block id="53b2a3888d74c6060ad749e8cd50f3cc" category="doc">设置操作故障恢复能力服务</block>
-  <block id="eb1f1072afdeaf925ee8a49c27da36a6" category="paragraph">使用运营故障恢复能力服务的第一步是从环境中的监控工具提供数据。</block>
   <block id="aeef00e38ed51f22706d62c2a0ab5668" category="paragraph">设置服务涉及以下步骤：</block>
   <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="inline-link-macro">前提条件</block>
   <block id="230a6470f3b56faa66817a00760e17ee" category="list-text">请查看 <block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> 以确保您的环境已准备就绪</block>
@@ -100,29 +91,21 @@
   <block id="8b6359316fcd0e79bcc63e44fde4f177" category="list-text">(可选)在使用此服务之前、在BlueXP中发现集群</block>
   <block id="ccaaa0b1fdb9afd84865d38039f74d41" category="section-title">在BlueXP中创建连接器</block>
   <block id="12c974d821c2a657f06d04bb173ce05d" category="paragraph">BlueXP Connector提供了NetApp ONTAP Machine的凭据、以便运营弹性服务可以就安全风险提供建议并执行修复。</block>
-  <block id="7035adff8b1382b7935ca5ea77976a02" category="paragraph">您可以直接在BlueXP中创建连接器、并在运营故障恢复能力服务中使用该连接器。或者、您也可以启动查看集群的过程、在此过程的中间部署Connector。</block>
   <block id="a5aa4a9277b83c0c529e9cebd0e88464" category="paragraph">要在使用此服务之前在BlueXP中创建连接器、请参阅所述的BlueXP文档<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>。</block>
   <block id="8cb57f3692a9a95873b528375ca802ad" category="section-title">在BlueXP中发现集群</block>
   <block id="6ac16908cedf4f30facecaf3b473c7de" category="paragraph">在设置过程中、需要在BlueXP中识别集群名称、IP、用户名和密码。</block>
   <block id="77edd12846ceca08a63e1059865b1044" category="paragraph">有关说明、请参阅所述的BlueXP文档<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>。</block>
-  <block id="08a1c8c8efa0dcbbd69a866487cb6095" category="summary">访问BlueXP中的服务、开始使用运营故障恢复能力服务。</block>
-  <block id="4bffe1140d12eeb81b9e080b0ff35d8d" category="doc">访问BlueXP中的运营故障恢复能力服务</block>
-  <block id="43df50f2400dc0718ce6b2d1c64e3a13" category="paragraph">您可以通过登录到NetApp BlueXP来使用操作故障恢复能力服务。</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">了解有关登录的更多信息</block>
   <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link">BlueXP控制台</block>
   <block id="36c53a7c1d567e72b555e7c672926fcc" category="list-text">打开Web浏览器并转到<block ref="c7cac890d256b6982a3b913952a758f2" category="inline-link-rx"></block>。</block>
   <block id="753e3c2055278365db83b605f29d4860" category="paragraph">此时将显示NetApp BlueXP登录页面。</block>
   <block id="ad84736d27b7f84414783598f4ffd0d9" category="list-text">登录到BlueXP。</block>
   <block id="30a806d095989a4cd374d05f16b397d2" category="list-text">从BlueXP左侧导航栏中、选择*运行状况*&gt;*运行故障恢复能力*。</block>
-  <block id="6b8ca4480e86b37ac8094418798793ad" category="summary">通过几个步骤开始使用NetApp BlueXP操作故障恢复能力服务。</block>
-  <block id="050bdb33d21b55499cded08599e171f0" category="doc">快速启动运营故障恢复能力服务</block>
-  <block id="ac0de9ac56255db14daf80267b0e4e5c" category="paragraph">下面简要介绍了开始使用NetApp BlueXP操作故障恢复能力服务所需的步骤。每个步骤中的链接将转到一个页面，其中提供了更多详细信息。</block>
   <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">一个</block>
   <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> 查看前提条件</block>
   <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">确保您的环境满足这些要求</block>
   <block id="ced4b743323450a7e7e56480339ef345" category="paragraph"><block ref="3ad9f09af84a8cf38e8d4dc8f0c46658" category="inline-link-macro-rx"></block>。</block>
   <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">两个</block>
-  <block id="fb8982c5d00e543224efa2ac70a820aa" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 设置操作故障恢复能力服务</block>
   <block id="cc6726e02ea7bc25f1ed413652107bdb" category="inline-link-macro">完成设置服务的步骤</block>
   <block id="8945930be6c7ec09e7411ef60b953505" category="paragraph"><block ref="ee9c1a6028084ebc22aa7d8247808a40" category="inline-link-macro-rx"></block>。</block>
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">三个</block>
@@ -133,27 +116,16 @@
   <block id="2917b1025bbb9c3686b91e471db99651" category="inline-link-macro">使用Ansible攻略手册进行修复</block>
   <block id="daa30aaf6281023aee56e56db8ce96fb" category="list-text"><block ref="a7e3b23a1f3f74fcdbdc771d0ce3464a" category="inline-link-macro-rx"></block>。</block>
   <block id="88423fe6213085494239f6ce5cbf5e7d" category="list-text"><block ref="b26664155e4669de3894cf4ef5b3d8a0" category="inline-link-macro-rx"></block>。</block>
-  <block id="4bc36b94d13916f64255f9c6f54ad51e" category="doc">了解运营故障恢复能力服务</block>
-  <block id="cdf4fac12fa59bdc6554cf531c298474" category="paragraph">风险修复是一项针对BlueXP的服务、它会根据NetApp数字顾问(原Active IQ)的指导对NetApp ONTAP 集群实施修复。此服务会检测安全漏洞、例如固件和软件配置问题。</block>
-  <block id="605e84eff6f220f2e648f18326caeb08" category="section-title">使用运营故障恢复能力服务的优势</block>
-  <block id="60232dbbfa24ad62739a39cde4e86d5b" category="paragraph">运营弹性服务具有以下优势：</block>
   <block id="62540663380c02ec00b1e7931e30617d" category="list-text">在集群上自动执行更正过程</block>
   <block id="51bbd775f32eafc27c0054ece81c6916" category="list-text">信息板中的摘要视图、显示每个风险修复的状态</block>
   <block id="3a9852c45e2e43edbcefa9f74bf72fbb" category="list-text">用于跟踪所采取的不同操作的日志</block>
-  <block id="24ec8b62b98d08eefe3e1005befd6c32" category="section-title">您可以使用运营故障恢复能力服务执行什么操作</block>
-  <block id="fbc467aaaef72571b69362ffd793b980" category="paragraph">使用运营故障恢复能力服务、您可以实现以下目标：</block>
   <block id="e602de70104e7a6058d5ee89495ff842" category="list-text">使用自动化工作流来帮助您检测影响存储环境的风险并采取措施来缓解这些风险。</block>
   <block id="f7551fc8ea0fd358f71f9e67b147781f" category="list-text">查看操作建议并采取相应措施、例如与安全漏洞相关的问题。</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">成本</block>
   <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp不会向您收取使用此服务的费用。</block>
   <block id="eb1f65bb1b774d1bd2f00607a58f102c" category="section-title">支持的环境</block>
-  <block id="429885a62ce0c77395b945842226a4cc" category="paragraph">运营恢复能力服务可分析内部部署的NetApp ONTAP 集群。</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">如果您只是想快速了解问题解答，此常见问题解答会很有帮助。</block>
-  <block id="0e47e65f6f1da96b296d1bb3be658363" category="doc">有关运营弹性服务的常见问题</block>
-  <block id="424543a58732f42fd5482c0f9a373994" category="section-title">访问运营故障恢复能力服务</block>
-  <block id="3d30fb9c1a3cbc7318effaf7886fd510" category="paragraph">*什么是BlueXP操作故障恢复能力URL？*</block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">许可</block>
-  <block id="7cb38122a2ccc3592b97f5655d3c4080" category="paragraph">*您是否需要许可证才能使用操作故障恢复能力服务？*</block>
   <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">不需要NetApp许可证文件(NLF)。</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp通过多种方式为BlueXP提供支持。全天候提供丰富的免费自助支持选项，例如知识库（ KB ）文章和社区论坛。您的支持注册包括通过 Web 服务单提供的远程技术支持。</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">获取帮助</block>
@@ -311,11 +283,8 @@
   <block id="1c0e45ef07d0dbc13ca2394d5e285fd7" category="paragraph">拥有NetApp 支持站点 帐户后、您可以导航到BlueXP以添加此NSS帐户以供将来注册。</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">已知限制用于标识此服务版本不支持或无法与之正确交互的平台、设备或功能。</block>
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
-  <block id="d13b251ada2cfb6aeec1f3c123d852e8" category="summary">了解运营弹性服务的新增功能。</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新增功能</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">2023年4月2日</block>
-  <block id="1630a937eacb69072b241ed94c9fd786" category="paragraph">使用新的运营故障恢复能力服务及其自动化IT运营风险修复建议、您可以在发生中断或故障之前实施建议的修复。</block>
-  <block id="ccdc113a6d04ad73b22b032c1ebd7c63" category="paragraph">运营故障恢复能力是一类服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间和性能。</block>
   <block id="7e0c2cf881384db7bfcfb883b67871a5" category="inline-link-macro">了解有关此新服务的更多信息</block>
   <block id="111e68f453d93697e376aa4b128f9a4c" category="paragraph"><block ref="ab8039366481dc33ac47cc2a37c277c6" category="inline-link-macro-rx"></block>。</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">入门</block>
@@ -324,7 +293,6 @@
   <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">前提条件</block>
   <block id="1da54223aacfae99a4874c0e691e9686" category="sidebar">登录到BlueXP上的服务</block>
   <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">常见问题解答</block>
-  <block id="bd061bc82da085cfa0af1ce1250210fe" category="sidebar">使用运营故障恢复能力服务</block>
   <block id="c51a2c08d5209aad63f43c6526df187d" category="sidebar">查看并修复安全问题</block>
   <block id="55ecbcc86c1df8e0bbccc58434b65675" category="sidebar">自动修复问题</block>
   <block id="c9705b7c773d6a1ccecd7fb434fd094c" category="sidebar">使用Ansible攻略手册修复问题</block>
@@ -338,7 +306,6 @@
   <block id="c6c64cb38e97edda8ffa90f94528ff44" category="sidebar">访问BlueXP上的服务</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知识和支持</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
-  <block id="d83db14f4cdc7c07f256b9b25bf14272" category="paragraph">如果您在BlueXP操作故障恢复能力服务中选择了*修复*选项、则该服务可以为您实施修复。</block>
   <block id="512d7187e11e6b2bd094632645a845b7" category="paragraph">请参见所述的BlueXP文档<block ref="3be6fdd970ee3d2f07a043a29363ec05" category="inline-link-rx"></block>。</block>
   <block id="f164503793033fa06dba0ecdec3a5be1" category="paragraph">请参见BlueXP文档、了解相关信息<block ref="20b708c671b065a2812094c911bf9a2e" category="inline-link-rx"></block>。</block>
   <block id="641d85e3392af705f9d34f2fa609a57b" category="paragraph">请参见BlueXP<block ref="1295fbde6ecbfd0b1a74b2320f542e01" category="inline-link-rx"></block>。</block>
@@ -346,4 +313,40 @@
   <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">要登录到BlueXP、您可以使用NetApp 支持站点 凭据、也可以使用电子邮件和密码注册NetApp云登录。<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>。</block>
   <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
   <block id="8bfe71eed258e3f01fe6e2704d8b996c" category="paragraph">对于URL、在浏览器中输入：<block ref="6db7b50bf17b27cbede9f07c4fbc973e" category="inline-link-rx"></block></block>
+  <block id="28ec4fd398ec8aee5e3f375cd2625519" category="summary">运营故障恢复能力是一项服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间和性能。使用运营故障恢复能力服务及其自动化IT运营风险修复建议、您可以在发生中断或故障之前实施建议的修复。</block>
+  <block id="40742dd64edea269092e2b0b612101fe" category="summary">通过验证对您的环境、网络访问、登录和Web浏览器的支持、开始使用BlueXP操作故障恢复能力服务。</block>
+  <block id="5893f4c01eddd46fe51d24d7846dbf42" category="paragraph">要使用运营故障恢复能力服务、您应确保您的环境满足所有要求。</block>
+  <block id="71758daba0a46e3d46a7ebca6c89cc94" category="list-text">虽然这不是一项要求、但如果部署并启用了BlueXP连接器、并且发现了ONTAP 系统、则会很有帮助。如果不是、运营故障恢复能力服务将引导您完成这些过程。</block>
+  <block id="c5e325373de16202bbba45fab31f6350" category="doc">设置操作故障恢复能力服务</block>
+  <block id="143752699168c365fbf298ed2e1e3620" category="paragraph">使用运营故障恢复能力服务的第一步是从环境中的监控工具提供数据。</block>
+  <block id="38be59bd2061124d4a321a548ce7ca38" category="paragraph">您可以直接在BlueXP中创建连接器、并在运营故障恢复能力服务中使用该连接器。或者、您也可以启动查看集群的过程、在此过程的中间部署Connector。</block>
+  <block id="6000632e15fbf49899a72b1afe33e0ed" category="summary">运营故障恢复能力是一项服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间和性能。使用运营故障恢复能力服务及其自动化IT运营修复建议、您可以在发生中断或故障之前实施建议的修复。</block>
+  <block id="eee45265361093339d7654a8dc6c5682" category="doc">了解运营故障恢复能力服务</block>
+  <block id="f9534b9234d404c812291d7f2144f0d5" category="paragraph">运营故障恢复能力是一项服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间和性能。使用运营故障恢复能力服务及其自动化IT运营风险修复建议、您可以在发生中断或故障之前实施建议的修复。</block>
+  <block id="38c52928b11db521d3490652a91a0126" category="paragraph">此BlueXP服务会根据NetApp Digital Advisor (以前称为Active IQ)的指导对NetApp ONTAP 集群实施修复。此服务会检测安全漏洞、例如固件和软件配置问题。</block>
+  <block id="7989549020ecda7466687ba0003a7c3c" category="section-title">使用运营故障恢复能力服务的优势</block>
+  <block id="81f69e875e08770a35c9cc72ae30cfb6" category="paragraph">运营弹性服务具有以下优势：</block>
+  <block id="bd9223d646fd54dbdf3b7d02884434c3" category="section-title">您可以使用运营故障恢复能力服务执行什么操作</block>
+  <block id="8946ce3007f7028cd8e61a280f8aeef8" category="paragraph">使用运营故障恢复能力服务、您可以实现以下目标：</block>
+  <block id="2211f87bf51b6ffe261b7b579b653be2" category="paragraph">运营恢复能力服务可分析内部部署的NetApp ONTAP 集群。</block>
+  <block id="05b6fc411359072e39963417d3717fb5" category="summary">访问BlueXP中的服务、开始使用运营故障恢复能力服务。</block>
+  <block id="fd4a5b6fde0da08fa53b250835acae31" category="doc">访问BlueXP中的运营故障恢复能力服务</block>
+  <block id="4a92b7c1cf6429306da39555bcc26695" category="paragraph">您可以通过登录到NetApp BlueXP来使用操作故障恢复能力服务。</block>
+  <block id="92100e0b26cf551afa26cc89d4914d49" category="summary">通过几个步骤开始使用NetApp BlueXP操作故障恢复能力服务。</block>
+  <block id="eee24bf77531bff771aeb058c9e172f7" category="doc">快速启动运营故障恢复能力服务</block>
+  <block id="1aa4a8920a804919ca13b046e0e8293d" category="paragraph">下面简要介绍了开始使用NetApp BlueXP操作故障恢复能力服务所需的步骤。每个步骤中的链接将转到一个页面，其中提供了更多详细信息。</block>
+  <block id="6fa341bb06fb8b0742ee2ff04464fc33" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 设置操作故障恢复能力服务</block>
+  <block id="68e11e4581d2273aca596d14309a121b" category="doc">有关运营弹性服务的常见问题</block>
+  <block id="0e034193ec5332d2eaba537464996f8a" category="section-title">访问运营故障恢复能力服务</block>
+  <block id="f5af837941911e97d098417ff6c88e26" category="paragraph">*什么是BlueXP操作故障恢复能力URL？*</block>
+  <block id="96132a91ebcd8843576c5d3b88b25986" category="paragraph">*您是否需要许可证才能使用操作故障恢复能力服务？*</block>
+  <block id="0b8542a5ea2780ed861f8e359d3aa42c" category="summary">了解运营弹性服务的新增功能。</block>
+  <block id="d3d5bae1dc5637cc2d16caf23d0426d2" category="paragraph">使用新的运营故障恢复能力服务及其自动化IT运营风险修复建议、您可以在发生中断或故障之前实施建议的修复。</block>
+  <block id="ae74e3db3615f676968300b7cc6e8ae1" category="paragraph">运营故障恢复能力是一项服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间和性能。</block>
+  <block id="e1287a8e494def55e5ee82def5682265" category="summary">NetApp BlueXP运营故障恢复能力服务使用AI来确定安全风险。</block>
+  <block id="ba564dc3a6bd98167511b58b61a61a70" category="paragraph">通过运行故障恢复能力服务、您可以查看与固件问题相关的安全风险并实施修复。</block>
+  <block id="c73a660d4a0630849f0ae902550fada8" category="paragraph">使用运营故障恢复能力服务、您可以实现以下目标：</block>
+  <block id="822e3a5523be56be4343224274f22c3b" category="paragraph">如果您在BlueXP操作故障恢复能力服务中选择了*修复*选项、则该服务可以为您实施修复。</block>
+  <block id="6d04364204b362ee365b97c4ec08a1d8" category="sidebar">运营故障恢复能力是一项服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间和性能。使用运营故障恢复能力服务及其自动化IT运营风险修复建议、您可以在发生中断或故障之前实施建议的修复。</block>
+  <block id="21d892a35096adc6364a2a04c3d6a011" category="sidebar">使用运营故障恢复能力服务</block>
 </blocks>
