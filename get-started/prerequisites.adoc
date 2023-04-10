@@ -18,7 +18,7 @@ summary: 通过验证对您的环境、网络访问、登录和Web浏览器的�
 
 * 您的环境必须满足所有BlueXP要求、包括通过Web浏览器进行登录和网络访问。
 +
-请参见BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["入门检查清单"^]。
+请参见 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-standard-mode.html["BlueXP快速入门"^] 和 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-networking-saas-console.html["BlueXP网络信息"^]。
 
 * 此服务要求所有集群均由Digital Advisor (以前称为Active IQ Digital Advisor)监控。请参见 https://docs.netapp.com/us-en/active-iq/index.html["Digital Advisor文档"^]。
 * 您需要拥有集群的访问凭据。
