@@ -4,7 +4,7 @@ permalink: get-started/quick-start.html
 keywords: how to get started with bluexp operational resiliency, operational resiliency quick start, security risk remediation 
 summary: 通过几个步骤开始使用NetApp BlueXP操作故障恢复能力服务。 
 ---
-= 快速启动运营故障恢复能力服务
+= BlueXP操作故障恢复能力快速入门
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: 通过几个步骤开始使用NetApp BlueXP操作故障恢复能力服�
 
 
 [role="lead"]
-下面简要介绍了开始使用NetApp BlueXP操作故障恢复能力服务所需的步骤。每个步骤中的链接将转到一个页面，其中提供了更多详细信息。
+下面概述了开始使用BlueXP操作故障恢复能力所需的步骤。每个步骤中的链接将转到一个页面，其中提供了更多详细信息。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一个"] 查看前提条件
 [role="quick-margin-para"]

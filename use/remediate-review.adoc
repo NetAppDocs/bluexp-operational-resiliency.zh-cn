@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/remediate-review.html 
 keywords: bluexp, operational resiliency, remediate, security risk remediation 
-summary: 风险修复服务可识别内部ONTAP 集群上的安全风险。 
+summary: BlueXP操作故障恢复能力可识别内部ONTAP 集群上的安全风险。 
 ---
 = 查看安全风险问题
 :hardbreaks:
@@ -12,11 +12,11 @@ summary: 风险修复服务可识别内部ONTAP 集群上的安全风险。
 
 
 [role="lead"]
-风险修复服务可识别内部ONTAP 集群上的安全风险。
+BlueXP操作故障恢复能力可识别内部ONTAP 集群上的安全风险。
 
 审核风险并执行自动修复涉及以下过程：
 
-* 在BlueXP中创建连接器(如果风险修复服务尚不存在连接器)。
+* 在BlueXP中创建连接器(如果操作故障恢复能力服务尚不存在连接器)。
 * 发现集群(如果此服务尚不存在集群)。
 * 执行修复或下载Ansible攻略手册。
 * 查看修复状态。

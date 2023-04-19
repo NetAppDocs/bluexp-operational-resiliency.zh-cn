@@ -1,10 +1,10 @@
 ---
 indexpage:
-  lead: 运营故障恢复能力是一项服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间和性能。使用运营故障恢复能力服务及其自动化IT运营风险修复建议、您可以在发生中断或故障之前实施建议的修复。
+  lead: BlueXP操作故障恢复能力是一项服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间以及性能。使用运营故障恢复能力服务及其自动化IT运营风险修复建议、您可以在发生中断或故障之前实施建议的修复。
   tiles:
   - title: 入门
     links:
-    - title: 了解运营故障恢复能力服务
+    - title: 了解BlueXP操作故障恢复能力
       url: "/get-started/intro.html"
     - title: 新增功能
       url: "/release-notes/whats-new.html"
@@ -16,7 +16,7 @@ indexpage:
       url: "/get-started/login.html"
     - title: 常见问题解答
       url: "/get-started/faq.html"
-  - title: 使用运营故障恢复能力服务
+  - title: 使用BlueXP操作故障恢复能力
     links:
     - title: 查看并修复安全问题
       url: "/use/remediate-overview.html"

@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/setup.html 
 keywords: bluexp, operational resiliency, risk remediate 
-summary: 您无需添加容量或分层冷数据、而是可以选择此时不需要执行任何操作、并为自己设置提醒、以便在30、60或90天后再次检查。 
+summary: 要使用BlueXP操作故障恢复能力服务、第一步是让环境中的监控工具提供数据。 
 ---
-= 设置操作故障恢复能力服务
+= 设置BlueXP操作故障恢复能力
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,7 +12,7 @@ summary: 您无需添加容量或分层冷数据、而是可以选择此时不�
 
 
 [role="lead"]
-使用运营故障恢复能力服务的第一步是从环境中的监控工具提供数据。
+要使用BlueXP操作故障恢复能力、第一步是让环境中的监控工具提供数据。
 
 设置服务涉及以下步骤：
 

@@ -4,7 +4,7 @@ permalink: use/remediate-ansible.html
 keywords: bluexp, operational resiliency, remediate, security risk remediation 
 summary: 您可以查看安全风险并下载Ansible攻略手册、以便修复问题描述。 
 ---
-= 使用Ansible攻略手册进行修复
+= 使用《Ans可 轻松操作手册》修复风险
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
