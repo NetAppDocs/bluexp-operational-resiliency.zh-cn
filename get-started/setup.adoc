@@ -29,7 +29,7 @@ BlueXP Connector提供了NetApp ONTAP Machine的凭据、以便运营弹性服�
 
 您可以直接在BlueXP中创建连接器、并在运营故障恢复能力服务中使用该连接器。或者、您也可以启动查看集群的过程、在此过程的中间部署Connector。
 
-要在使用此服务之前在BlueXP中创建连接器、请参阅所述的BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何创建连接器"^]。
+要在使用此服务之前在BlueXP中创建连接器、请参阅所述的BlueXP文档 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["如何创建连接器"^]。
 
 
 
@@ -37,4 +37,4 @@ BlueXP Connector提供了NetApp ONTAP Machine的凭据、以便运营弹性服�
 
 在设置过程中、需要在BlueXP中识别集群名称、IP、用户名和密码。
 
-有关说明、请参阅所述的BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["如何识别集群"^]。
+有关说明、请参阅所述的BlueXP文档 https://docs.netapp.com/us-en/bluexp-setup-admin/index.html["如何识别集群"^]。

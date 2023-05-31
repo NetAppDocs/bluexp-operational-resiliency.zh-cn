@@ -25,11 +25,11 @@ summary: 如果选择了修复选项、则服务可以为您实施修复。
 +
 ** 如果Connector不存在或尚未启用、则此服务将显示创建连接器页面、您可以在其中创建连接器。如果Connector已存在、但未处于活动状态、则必须在云提供商服务中启用它。
 +
-请参见所述的BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何创建连接器"^]。
+请参见所述的BlueXP文档 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["如何创建连接器"^]。
 
 ** 如果集群不存在、服务将显示一个页面、您可以在其中标识集群。
 +
-请参见BlueXP文档、了解相关信息 https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["如何识别集群"^]。
+请参见BlueXP文档、了解相关信息 https://docs.netapp.com/us-en/bluexp-setup-admin/index.html["如何识别集群"^]。
 
 
 

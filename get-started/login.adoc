@@ -14,7 +14,7 @@ summary: 访问BlueXP中的服务、开始使用运营故障恢复能力服务�
 [role="lead"]
 您可以通过登录到NetApp BlueXP来使用BlueXP操作故障恢复能力。
 
-要登录到BlueXP、您可以使用NetApp 支持站点 凭据、也可以使用电子邮件和密码注册NetApp云登录。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["了解有关登录的更多信息"^]。
+要登录到BlueXP、您可以使用NetApp 支持站点 凭据、也可以使用电子邮件和密码注册NetApp云登录。 https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["了解有关登录的更多信息"^]。
 
 .步骤
 . 打开Web浏览器并转到 https://console.bluexp.netapp.com/["BlueXP控制台"]。
