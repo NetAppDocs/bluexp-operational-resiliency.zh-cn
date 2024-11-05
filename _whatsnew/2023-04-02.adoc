@@ -1,22 +1,6 @@
----
-sidebar: sidebar 
-permalink: release-notes/whats-new.html 
-keywords: operational resiliency faq, operational resiliency frequently asked questions, firmware risks 
-summary: 了解BlueXP操作故障恢复能力的新增功能。 
----
-= 新增功能
-:hardbreaks:
+= BlueXP  操作故障恢复能力服务
 :allow-uri-read: 
-:icons: font
-:imagesdir: ../media/
 
-
-[role="lead"]
-了解BlueXP操作故障恢复能力的新增功能。
-
-
-
-== 2023年4月2日
 
 
 
