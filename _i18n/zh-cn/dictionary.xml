@@ -237,8 +237,6 @@
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXP快速入门</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP网络信息</block>
   <block id="e6f9a71f2431a6f1340c157d23dabee6" category="doc">BlueXP操作故障恢复能力前提条件</block>
-  <block id="4047eed73fb147faca2a60e49cd11bd3" category="inline-link">BlueXP数字顾问文档</block>
-  <block id="79489f774fae583d2ef44553677325d2" category="list-text">该服务要求所有集群均由BlueXP数字顾问(Active IQ)监控、这要求在资产上启用AutoSupport。请参见<block ref="28ad866a93984325ed92c672458a0234" category="inline-link-rx"></block>。</block>
   <block id="b195ee77502e843664bcba163b60d4ad" category="list-text">要进行自动修复、需要BlueXP Connector。如果在使用BlueXP操作故障恢复能力启动修复之前、BlueXP连接器已就位并启用、并且发现了ONTAP 系统、则会很有帮助。如果连接器未就位、则操作故障恢复能力服务将引导您完成这些过程。如果使用的是Ans得 文件进行修复、则不需要BlueXP Connector。</block>
   <block id="5396aec18ef871c7c8fb5f3e71071da8" category="summary">要使用BlueXP操作故障恢复能力服务、第一步是让环境中的监控工具提供数据。</block>
   <block id="b7044cbcf51431684747ed82ec363437" category="doc">设置BlueXP操作故障恢复能力</block>
@@ -247,7 +245,6 @@
   <block id="490d590118714dd56e7c49c9dc1016d6" category="summary">BlueXP操作故障恢复能力是一项服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间以及性能。使用运营故障恢复能力服务及其自动化IT运营修复建议、您可以在发生中断或故障之前实施建议的修复。</block>
   <block id="e4062e43ecd3e9b66ed3efe3150aa1d3" category="doc">了解BlueXP操作故障恢复能力</block>
   <block id="5d84361178f8487227dcab9eb32e9312" category="paragraph">BlueXP操作故障恢复能力是一项服务、可帮助您分析警报和事件、以保持服务和解决方案的运行状况、正常运行时间以及性能。使用运营故障恢复能力服务及其自动化IT运营风险修复建议、您可以在发生中断或故障之前实施建议的修复。</block>
-  <block id="6b5aa1fcaf53fdb7faa3abc66c3936e3" category="paragraph">此BlueXP服务可根据BlueXP数字顾问(Active IQ)指导对NetApp ONTAP 集群实施修复。此服务会检测安全漏洞、例如固件和软件配置问题。</block>
   <block id="18096d7d55c678c44a691f68acf1192b" category="section-title">使用BlueXP操作故障恢复能力的优势</block>
   <block id="bd92f54b050c6c9326ecedaec0f8f909" category="paragraph">BlueXP操作故障恢复能力具有以下优势：</block>
   <block id="30b514febdd42261d1a1daa3d54d14d0" category="section-title">BlueXP操作故障恢复能力的用途</block>
@@ -353,4 +350,7 @@
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">将NSS凭据与您的BlueXP  组织相关联与与与BlueXP  用户登录相关联的NSS帐户不同。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">这些NSS凭据与您的特定BlueXP  组织ID相关联。属于BlueXP  组织的用户可以从*Support &gt; NSS Management*访问这些凭据。</block>
   <block id="ee97d7a6f8cd51410930ad6fd6c7d715" category="doc">BlueXP  操作故障恢复能力服务</block>
+  <block id="5837045b4a274916acb6680b003d1c2b" category="paragraph">此BlueXP  服务可根据Active IQ数字顾问(也称为数字顾问)指导对NetApp ONTAP集群实施修复。此服务会检测安全漏洞、例如固件和软件配置问题。</block>
+  <block id="ea7b2437ddd14dce6ba3f65494d634fd" category="inline-link">Digital Advisor文档</block>
+  <block id="d2a40e1969d512b879525670f7f544d5" category="list-text">该服务要求所有集群均由Digital Advisor监控、这要求在资产上启用AutoSupport。请参阅<block ref="5d1aa2fae9958ef5ced45eec5d13d250" category="inline-link-rx"></block>。</block>
 </blocks>

@@ -20,7 +20,7 @@ summary: 通过验证对您的环境、网络访问、登录和Web浏览器的�
 +
 请参见 https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["BlueXP快速入门"^] 和 https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["BlueXP网络信息"^]。
 
-* 该服务要求所有集群均由BlueXP数字顾问(Active IQ)监控、这要求在资产上启用AutoSupport。请参见 https://docs.netapp.com/us-en/active-iq/index.html["BlueXP数字顾问文档"^]。
+* 该服务要求所有集群均由Digital Advisor监控、这要求在资产上启用AutoSupport。请参阅 https://docs.netapp.com/us-en/active-iq/index.html["Digital Advisor文档"^]。
 * 您需要拥有集群的访问凭据。
 * 要进行自动修复、需要BlueXP Connector。如果在使用BlueXP操作故障恢复能力启动修复之前、BlueXP连接器已就位并启用、并且发现了ONTAP 系统、则会很有帮助。如果连接器未就位、则操作故障恢复能力服务将引导您完成这些过程。如果使用的是Ans得 文件进行修复、则不需要BlueXP Connector。
 
